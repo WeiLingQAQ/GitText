@@ -4,4 +4,3 @@
 
 
 add func1
-code conclick2
